@@ -2,12 +2,6 @@ venv/
 __pycache__/
 config.py
 
-
-# csv, excel, and text files
-*.csv
-*.xlsx
-*.txt
-
 # archives
 *.zip
 *.7z
