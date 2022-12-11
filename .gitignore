@@ -8,9 +8,6 @@ config.py
 *.xlsx
 *.txt
 
-# folders
-*/
-
 # archives
 *.zip
 *.7z
