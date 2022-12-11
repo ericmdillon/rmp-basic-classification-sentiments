@@ -1,4 +1,6 @@
-
+"""
+Generates comment files from the school-lists directory using the data available in the database.
+"""
 from dbf import DatabaseFunctions
 import os
 
@@ -6,11 +8,11 @@ dbf = DatabaseFunctions()
 
 
 # list the out directory
-for file in os.listdir("out"):
+for file in os.listdir("school-lists"):
     # the filename for later
     basename = file.split(".")[0].strip()
     # open the file
-    with open(os.path.join('out', file), "r", encoding="latin2") as f:
+    with open(os.path.join('school-lists', file), "r", encoding="latin2") as f:
         lines = f.readlines()
     for line in lines:
         # school id
