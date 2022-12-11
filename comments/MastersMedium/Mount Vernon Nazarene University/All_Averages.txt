@@ -1,0 +1,31 @@
+Averages for 2010-2014: 
+Positive: 0.22185714285714284
+Negative: 0.1357142857142857
+Neutral: 0.6424285714285715
+Compound: 0.3533714285714286
+********
+Averages for 2015-2017: 
+Positive: 0.202875
+Negative: 0.054125000000000006
+Neutral: 0.743125
+Compound: 0.37477499999999997
+********
+Averages for 2018-2020: 
+Positive: 0.3730909090909091
+Negative: 0.023545454545454546
+Neutral: 0.6033636363636363
+Compound: 0.6022909090909091
+********
+Averages for 2021 and onward: 
+Positive: 0.3125
+Negative: 0.135
+Neutral: 0.5525
+Compound: -0.16799999999999998
+********
+Averages for university over all time: 
+Positive: 0.27758076298701295
+Negative: 0.08709618506493506
+Neutral: 0.6353543019480519
+Compound: 0.2906093344155844
+********
+Total number of reviews analyzed: 28
