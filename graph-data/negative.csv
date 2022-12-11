@@ -1,5 +1,4 @@
-﻿Name,Classification Change,,,,Average Negative Score for Year Range,,,,Difference in Average Negative Score between Adjacent Year Ranges,,," Mean Difference in Average Negative Score between Adjacent Years, Separated by Classification Change",,,"Computation for Mean Difference in Average Negative Score between Adjacent Years, Separated by Classification Change",,,,,,,,
-,2010,2015,2018,2020,2010-2014,2015-2017,2018-2020,2021 - Present,2010-2014 / 2015-2017,2015-2017 / 2018-2020,2018-2020 / 2021 - Present,Decrease,No Change,Increase,Decrease,,,No Change,,,Increase,,
+﻿Name,2010,2015,2018,2020,2010-2014,2015-2017,2018-2020,2021 - Present,2010-2014 / 2015-2017,2015-2017 / 2018-2020,2018-2020 / 2021 - Present,Decrease,No Change,Increase,Decrease,,,No Change,,,Increase,,
 Albany State University,0,0,0,0,0.010,0.060,0.096,0.000,0.050,0.036,-0.096,,-0.003,,,,,0.050,0.036,-0.096,,,
 Alvernia University,0,0,0,10,0.075,0.029,0.077,0.213,-0.045,0.048,0.135,,0.001,,,,,-0.045,0.048,,,,
 Auburn University,0,0,1,0,0.120,0.057,0.088,0.032,-0.063,0.030,-0.055,,-0.059,0.030,,,,-0.063,,-0.055,,0.030,
@@ -60,4 +59,5 @@ University of West Georgia,0,1,0,0,0.062,0.052,0.058,0.074,-0.010,0.005,0.016,,0
 Virginia Commonwealth University,1,0,0,0,0.050,0.048,0.048,0.056,-0.002,-0.000,0.008,,0.002,,,,,-0.002,-0.000,0.008,,,
 Walla Walla University,0,0,-1,0,0.016,0.050,0.024,0.060,0.034,-0.026,0.036,,-0.004,0.070,,-0.026,,0.034,,0.036,,,
 Xavier University,0,0,0,1,0.038,0.039,0.030,0.100,0.001,-0.008,0.070,,,,,,,0.001,-0.008,,,,0.070
-All Universities Average,,,,,0.057,0.053,0.062,0.069,-0.004,0.009,0.005,0.006,0.005,-0.003,,,,,,,,,
+"All Universities, Average",,,,,0.057,0.053,0.062,0.069,-0.004,0.009,0.005,0.006,0.005,-0.003,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
